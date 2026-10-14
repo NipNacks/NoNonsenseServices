@@ -1,0 +1,8 @@
+/* Native fallback and header clearance for anchors. */
+html{scroll-behavior:smooth}
+html.lenis,html.lenis body{height:auto}
+html.lenis-smooth{scroll-behavior:auto!important}
+.scroll-depth{overflow:hidden}
+.scroll-depth:not(img) img{scale:1.065;translate:0 var(--scroll-depth,0px);will-change:translate}
+img.scroll-depth{translate:0 var(--scroll-depth,0px)}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}.scroll-depth:not(img) img,img.scroll-depth{scale:none;translate:none;will-change:auto}}
