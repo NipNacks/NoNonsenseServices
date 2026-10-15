@@ -1,4 +1,4 @@
-MAIN WEBSITE — VERSATILE PROPERTY SERVICES
+MAIN WEBSITE — No Nonsense Services
 Approved black, gold and ivory design; polished 13 October 2026.
 
 HTML, CSS, JavaScript and locally bundled Bootstrap and Lenis.
